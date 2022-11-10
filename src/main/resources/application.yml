@@ -1,0 +1,5 @@
+common:
+  application:
+    service:
+      config-server-manager-url: dummy
+      config-server-manager-path: dummy
